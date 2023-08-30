@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://docs.zcsuper.cn/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.zcsuper.cn/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "超苦逼冒险者",
+    "link": "https://game.zcsuper.cn/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "俄罗斯方块",
+    "link": "https://game-tetris.zcsuper.cn/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.zcsuper.cn/"
+  },
+  {
+    "icon": "Weixin",
+    "name": "微信聊天生成",
+    "link": "https://wechat.zcsuper.cn/"
+  }
+]
