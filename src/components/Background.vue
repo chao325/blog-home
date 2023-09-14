@@ -4,7 +4,7 @@
       v-show="store.imgLoadStatus"
       class="bg"
       alt="cover"
-      :src="bgUrl"
+      src="https://v.api.aa1.cn/api/api-fj-2/index.php?aa1=yuantu"
       @load="imgLoadComplete"
       @error.once="imgLoadError"
       @animationend="imgAnimationEnd"
@@ -76,7 +76,7 @@ const imgLoadError = () => {
       fill: "#efefef",
     }),
   });
-  bgUrl.value = `/images/background${bgRandom}.jpg`;
+  bgUrl.value = `https://v.api.aa1.cn/api/api-fj-2/index.php?aa1=yuantu`;
 };
 
 onMounted(() => {

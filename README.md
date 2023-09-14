@@ -1,11 +1,11 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>吃个甘蔗嚼一年</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![無名の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
+![吃个甘蔗嚼一年](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
 
 > 主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)
 
@@ -13,9 +13,9 @@
 
 > 由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - Dev](https://home-imsyy.vercel.app)
-- [無名の主页 - 备用线路](https://home-5iw.pages.dev)
+- [吃个甘蔗嚼一年](https://www.imsyy.top)
+- [吃个甘蔗嚼一年 - Dev](https://home-imsyy.vercel.app)
+- [吃个甘蔗嚼一年 - 备用线路](https://home-5iw.pages.dev)
 
 ### 功能
 
